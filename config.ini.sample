@@ -1,0 +1,23 @@
+[Telegram]
+api_id = [telegram app app_id]
+api_hash = [telegram app api_hash]
+username = [telegram host username]
+trash_chat_id = [trash telegram chat id]
+
+[Aiogram]
+TOKEN = [telegram bot token]
+SQL_INFO = dbname=postgres user=postgres password= host=127.0.0.1 port=5432
+
+[Aiohttp]
+http_host = 0.0.0.0
+http_port = 8000
+
+[VK]
+LOCAL_VK_TOKEN = [host vk token]
+VK_APPLICATION_KEY = [vk application key]
+VK_APPLICATION_ID = [vk application id]
+VK_AUTH_DOMAIN = [your domain to vk auth]
+
+[Telegram_bot_api_server]
+telegram_host = 0.0.0.0
+telegram_port = 8081

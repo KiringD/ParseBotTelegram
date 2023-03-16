@@ -1,0 +1,12 @@
+aiogram
+configparser
+asyncio
+Telethon
+yt_dlp
+aiohttp
+requests
+psycopg2-binary
+pytube
+youtube-search-python
+BeautifulSoup4
+requests-html
